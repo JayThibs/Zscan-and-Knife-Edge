@@ -1,2 +1,2 @@
 # Zscan-and-Knife-Edge
-Contains a Labview program to build your own Z-Scan setup as well as Matlab code making it possible to analyse the data.  It also contains a function to calculate the half-width of the beam at different positions (Knife-Edge method).
+Contains a Labview program to build your own Z-Scan setup as well as Matlab code making it possible to analyse the data and obtain transmittance and Reflectance plots. In order to test the calibration of your setup and it is also possible to calculate the non-linear coeffecient β of a well-known material such as ZnSe.  It also contains a function to calculate the half-width of the beam at different positions (Knife-Edge method).
