@@ -6,3 +6,15 @@ The LabView program is called "z-scan.vi". The z-scan setup that I have built ha
 For my measurements, I have not used a closed aperture setup in order to study the Kerr nonlinearity, but it is still very much possible to use the same code for that particular setup.
 
 I'm still working on making the matlab code as general as possible in order to let anyone use it. I will be updating soon.
+
+Here's my setup (French version for now):
+
+![Image of Z-Scan Setup](https://github.com/JayThibs/Zscan-and-Knife-Edge/blob/master/Z-scan/Z-scan%20setup.png)
+
+The LabView interface looks like:
+
+![Image of LabView Z-Scan Interface](https://github.com/JayThibs/Zscan-and-Knife-Edge/blob/master/Z-scan/LabViewZScanInterface.png)
+
+The LabView block diagram looks like:
+
+![Image of LabView Z-Scan Block Diagram](https://github.com/JayThibs/Zscan-and-Knife-Edge/blob/master/Z-scan/LbaViewZScanBlockDiagram.png)
